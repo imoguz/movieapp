@@ -26,7 +26,7 @@ Feel free to explore my projects.
 
 ## Project GIF
 
-![Project Snapshot](/assets/movieapp.gif)
+![Project Snapshot](/movieapp.gif)
 
 ## Technologies Used
 
